@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<matrix-build plugin="matrix-project@1.8">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>antonio</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.git.util.BuildData plugin="git@3.0.5">
+      <buildsByBranchName>
+        <entry>
+          <string>refs/remotes/origin/master</string>
+          <hudson.plugins.git.util.Build>
+            <marked plugin="git-client@2.2.1">
+              <sha1>82216cfafe447662b00832d4a4aca83413cb87fd</sha1>
+              <branches class="list">
+                <hudson.plugins.git.Branch>
+                  <sha1 reference="../../../sha1"/>
+                  <name>refs/remotes/origin/master</name>
+                </hudson.plugins.git.Branch>
+              </branches>
+            </marked>
+            <revision reference="../marked"/>
+            <hudsonBuildNumber>3</hudsonBuildNumber>
+          </hudson.plugins.git.util.Build>
+        </entry>
+      </buildsByBranchName>
+      <lastBuild reference="../buildsByBranchName/entry/hudson.plugins.git.util.Build"/>
+      <remoteUrls>
+        <string>https://github.com/turnbullpress/docker-jenkins-sample.git</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildData>
+    <hudson.plugins.git.GitTagAction plugin="git@3.0.5">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <string>refs/remotes/origin/master</string>
+          <list/>
+        </entry>
+      </tags>
+      <ws>/var/jenkins_home/workspace/Docker_matrix_job</ws>
+    </hudson.plugins.git.GitTagAction>
+    <hudson.scm.SCMRevisionState_-None/>
+    <hudson.tasks.test.MatrixTestResult>
+      <descriptions class="concurrent-hash-map"/>
+      <failCount>0</failCount>
+      <skipCount>0</skipCount>
+      <totalCount>1275</totalCount>
+      <children>
+        <hudson.tasks.test.AggregatedTestResultAction_-Child plugin="junit@1.20">
+          <name>OS=centos</name>
+          <build>3</build>
+        </hudson.tasks.test.AggregatedTestResultAction_-Child>
+        <hudson.tasks.test.AggregatedTestResultAction_-Child plugin="junit@1.20">
+          <name>OS=ubuntu</name>
+          <build>3</build>
+        </hudson.tasks.test.AggregatedTestResultAction_-Child>
+        <hudson.tasks.test.AggregatedTestResultAction_-Child plugin="junit@1.20">
+          <name>OS=debian</name>
+          <build>3</build>
+        </hudson.tasks.test.AggregatedTestResultAction_-Child>
+      </children>
+    </hudson.tasks.test.MatrixTestResult>
+  </actions>
+  <queueId>19</queueId>
+  <timestamp>1488173809809</timestamp>
+  <startTime>1488173809828</startTime>
+  <result>SUCCESS</result>
+  <duration>25916</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/jenkins_home/workspace/Docker_matrix_job</workspace>
+  <hudsonVersion>2.32.2</hudsonVersion>
+  <scm class="hudson.plugins.git.GitChangeLogParser" plugin="git@3.0.5">
+    <authorOrCommitter>false</authorOrCommitter>
+  </scm>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+  <axes>
+    <hudson.matrix.TextAxis>
+      <name>OS</name>
+      <values>
+        <string>centos</string>
+        <string>debian</string>
+        <string>ubuntu</string>
+      </values>
+    </hudson.matrix.TextAxis>
+  </axes>
+</matrix-build>

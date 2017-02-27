@@ -1,0 +1,27 @@
+Started by user [8mha:////4BlbH/uGgxBkRPWUZZ6tkXHAbq5SE/PYpeI1i6An41EpAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL9xLyS/LzMfACwMxzHwgAAAA==[0mAntonio Quintero
+Building in workspace /var/jenkins_home/workspace/Docker_matrix_job
+[WS-CLEANUP] Deleting project workspace...
+Cloning the remote Git repository
+Cloning repository https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git init /var/jenkins_home/workspace/Docker_matrix_job # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 82216cfafe447662b00832d4a4aca83413cb87fd (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 82216cfafe447662b00832d4a4aca83413cb87fd
+First time build. Skipping changelog.
+Triggering [8mha:////4CeDptrv3GusTRQFGlQa8GgKKkczoO7OR2ojvMQX81JrAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgZF/az8JH2X/OTs1KL43ESgKRXxIBH/YNvk1LyS/GJ9AI++03DWAAAA[0mDocker_matrix_job » centos
+Triggering [8mha:////4ADzmZu1cLIsXYIc4QJqPLillqWnWxRJjpi4z3WvXaiQAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgZF/az8JH2X/OTs1KL43ESgKRXxIBH/YNvSpNK8klJ9ALzdZQfWAAAA[0mDocker_matrix_job » ubuntu
+Triggering [8mha:////4DI9YxAUW8QlIySz1MZVzaQjV4J4rtMLYo6h8zQtOTjpAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgZF/az8JH2X/OTs1KL43ESgKRXxIBH/YNuU1KTMxDx9AFSjBSfWAAAA[0mDocker_matrix_job » debian
+[8mha:////4CeDptrv3GusTRQFGlQa8GgKKkczoO7OR2ojvMQX81JrAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgZF/az8JH2X/OTs1KL43ESgKRXxIBH/YNvk1LyS/GJ9AI++03DWAAAA[0mDocker_matrix_job » centos completed with result FAILURE
+[8mha:////4ADzmZu1cLIsXYIc4QJqPLillqWnWxRJjpi4z3WvXaiQAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgZF/az8JH2X/OTs1KL43ESgKRXxIBH/YNvSpNK8klJ9ALzdZQfWAAAA[0mDocker_matrix_job » ubuntu completed with result FAILURE
+[8mha:////4DI9YxAUW8QlIySz1MZVzaQjV4J4rtMLYo6h8zQtOTjpAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgZF/az8JH2X/OTs1KL43ESgKRXxIBH/YNuU1KTMxDx9AFSjBSfWAAAA[0mDocker_matrix_job » debian completed with result FAILURE
+Finished: FAILURE

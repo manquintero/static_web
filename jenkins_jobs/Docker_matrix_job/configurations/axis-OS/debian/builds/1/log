@@ -1,0 +1,35 @@
+Started by upstream project "[8mha:////4OD0NrfJKaAN52021AFooldpa2V414qj1PwQK/qg5yeVAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JH2X/OTs1KL43ESgKRXxIBEAGgp7C8wAAAA=[0mDocker_matrix_job" build number [8mha:////4LnUCRwhSOHF9uy4REzfx3e7LsNx6kiFdeVJhPCeWjEbAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwkfZf85OzUovjcRKApFfEgEUMACNOxh80AAAA=[0m1
+originally caused by:
+ Started by user [8mha:////4BlbH/uGgxBkRPWUZZ6tkXHAbq5SE/PYpeI1i6An41EpAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL9xLyS/LzMfACwMxzHwgAAAA==[0mAntonio Quintero
+Building in workspace /var/jenkins_home/workspace/Docker_matrix_job/OS/debian
+[WS-CLEANUP] Deleting project workspace...
+Cloning the remote Git repository
+Cloning repository https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git init /var/jenkins_home/workspace/Docker_matrix_job/OS/debian # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+Checking out Revision 82216cfafe447662b00832d4a4aca83413cb87fd (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 82216cfafe447662b00832d4a4aca83413cb87fd
+First time build. Skipping changelog.
+[debian] $ /bin/sh -xe /tmp/hudson7442037131219202308.sh
++ cd debian
++ sudo docker build .
++ tail -1
++ awk {print $NF}
++ IMAGE=f6f4cda483ac
++ MNT=/var/jenkins_home/workspace/Docker_matrix_job/OS/debian/debian/..
++ sudo docker run -d -v /var/jenkins_home/workspace/Docker_matrix_job/OS/debian/debian/..:/opt/project f6f4cda483ac /bin/bash -c cd /opt/project/debian; race spec
++ CONTAINER=6bb5972775019f5089881d93d6375a4d7db5560a1b8c794ff0a5b1a8439ee30f
++ sudo docker attach 6bb5972775019f5089881d93d6375a4d7db5560a1b8c794ff0a5b1a8439ee30f
+/bin/bash: race: command not found
+Build step 'Execute shell' marked build as failure
+Recording test results
+ERROR: Step ‘Publish JUnit test result report’ failed: No test report files were found. Configuration error?
+[8mha:////4DK3jQhXZbKA2xbGQraNTbuwfJRgi+hwUCMOZtrIuR59AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mFinished: FAILURE

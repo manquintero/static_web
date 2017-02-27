@@ -1,0 +1,1556 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result plugin="junit@1.20">
+  <suites>
+    <suite>
+      <file>/var/jenkins_home/jobs/Docket_test_job/workspace/spec/reports/SPEC-These-are-sample-RSpec-tests.0.xml</file>
+      <name>These are sample RSpec tests</name>
+      <duration>6.2391E-4</duration>
+      <timestamp>2017-02-27T03:12:57+00:00</timestamp>
+      <time>0.00062391</time>
+      <cases>
+        <case>
+          <duration>2.51099E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #1</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.29362E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #282</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.60572E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #283</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.80691E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #284</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.68457E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #285</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.60135E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #286</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.46282E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #287</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.779E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #288</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.41358E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #289</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.28321E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #290</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.47701E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #291</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.6615E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #292</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.79995E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #293</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.12118E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #294</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.3864E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #295</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.89137E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #296</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.78515E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #297</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.67491E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #298</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.62288E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #299</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.52641E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #300</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.40485E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #301</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.57921E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #302</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.05509E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #303</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.64553E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #304</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>5.85379E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #305</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.4158E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #306</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.82303E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #307</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.52313E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #308</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.78804E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #309</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.65565E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #310</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.07116E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #311</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.10513E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #312</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.54696E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #313</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.85919E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #314</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.31905E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #315</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.21694E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #316</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.43916E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #317</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.62051E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #318</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.38155E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #319</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.4388E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #320</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.95991E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #321</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.31265E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #322</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.45537E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #323</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.6301E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #324</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.37224E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #325</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.96809E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #326</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.69354E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #327</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.5052E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #328</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.52136E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #329</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.73037E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #330</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.75186E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #331</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.79695E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #332</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.48925E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #333</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.4071E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #334</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>5.21978E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #335</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.72665E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #336</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.02469E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #337</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.89055E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #338</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.77235E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #339</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.46643E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #340</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.66683E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #341</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.63895E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #342</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.51552E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #343</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.37657E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #344</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.65579E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #345</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.2536E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #346</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.32132E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #347</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.68174E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #348</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.19521E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #349</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.65322E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #350</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.38974E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #351</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.72622E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #352</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.45615E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #353</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.82254E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #354</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.48983E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #355</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.08353E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #356</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.57661E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #357</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.74997E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #358</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.14042E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #359</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.44971E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #360</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.59592E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #361</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.24095E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #362</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.99972E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #363</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.26593E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #364</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.56162E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #365</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>4.03987E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #366</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.8511E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #367</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.11393E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #368</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.94601E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #369</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.65526E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #370</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.91309E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #371</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.34899E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #372</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.69427E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #373</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.47765E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #374</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.31403E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #375</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.18523E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #376</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.12526E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #377</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.19007E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #378</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.13219E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #379</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.166E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #380</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.19238E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #381</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.30684E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #382</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.53225E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #383</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.16146E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #384</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.59538E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #385</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.40871E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #386</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.28371E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #387</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.9064E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #388</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.18683E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #389</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.93948E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #390</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.95661E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #391</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.89648E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #392</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.47261E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #393</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.66084E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #394</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.42105E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #395</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.11791E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #396</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.97792E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #397</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.90257E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #398</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.09081E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #399</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.09726E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #400</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.49324E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #401</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.23392E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #402</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.14906E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #403</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.31631E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #404</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.75239E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #405</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.97879E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #406</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.8452E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #407</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.33603E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #408</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.75552E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #409</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.06773E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #410</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.23716E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #411</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.6784E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #412</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.16407E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #413</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.64834E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #414</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.84765E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #415</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.34061E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #416</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.94997E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #417</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.33198E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #418</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.34477E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #419</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.29788E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #420</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.09771E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #421</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.83455E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #422</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.12514E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #423</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.16313E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #424</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.55715E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #425</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.46814E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #426</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.97893E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #427</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.59993E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #428</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.32244E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #429</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.24098E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #430</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.34067E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #431</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.98396E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #432</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.17179E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #433</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.93025E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #434</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.4903E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #435</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.78171E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #436</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.24989E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #437</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.98107E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #438</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.88841E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #439</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.23515E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #440</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.55987E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #441</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.21672E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #442</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.90014E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #443</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.91919E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #444</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.29809E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #445</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.8079E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #446</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.20792E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #447</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.31582E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #448</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.94085E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #449</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.0541E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #450</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.98211E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #451</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.16313E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #452</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.56285E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #453</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.53607E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #454</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.25144E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #455</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.00024E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #456</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.96093E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #457</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.04158E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #458</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.31029E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #459</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.81241E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #460</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.85252E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #461</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.85561E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #462</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.23537E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #463</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.86061E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #464</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.89151E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #465</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.06948E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #466</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.84034E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #467</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.20307E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #468</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.29576E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #469</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>3.48731E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #470</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.23966E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #471</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.0358E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #472</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.1061E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #473</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.79565E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #474</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.9626E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #475</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.81743E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #476</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.19954E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #477</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.80721E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #478</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.10398E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #479</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.01204E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #480</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.16994E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #481</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.26335E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #482</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.89749E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #483</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.0911E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #484</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.3136E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #485</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.28559E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #486</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.00545E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #487</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.91948E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #488</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.30829E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #489</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.45361E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #490</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.88313E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #491</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.15812E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #492</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.13182E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #493</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.40301E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #494</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.2142E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #495</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.87601E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #496</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.11327E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #497</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.11785E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #498</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.12456E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #499</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>1.91558E-4</duration>
+          <className>These are sample RSpec tests</className>
+          <testName>These are sample RSpec tests This is test #500</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.16701722</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

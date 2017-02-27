@@ -1,0 +1,21 @@
+Started by user [8mha:////4BlbH/uGgxBkRPWUZZ6tkXHAbq5SE/PYpeI1i6An41EpAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL9xLyS/LzMfACwMxzHwgAAAA==[0mAntonio Quintero
+Building in workspace /var/jenkins_home/jobs/Docket_test_job/workspace
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 82216cfafe447662b00832d4a4aca83413cb87fd (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 82216cfafe447662b00832d4a4aca83413cb87fd
+ > git rev-list 82216cfafe447662b00832d4a4aca83413cb87fd # timeout=10
+[workspace] $ /bin/sh -xe /tmp/hudson7314087330313076693.sh
++ ls -l /var/run/docker.sock
+ls: cannot open directory /var/run/docker.sock: Permission denied
+Build step 'Execute shell' marked build as failure
+Recording test results
+ERROR: Step ‘Publish JUnit test result report’ failed: No test report files were found. Configuration error?
+[8mha:////4DK3jQhXZbKA2xbGQraNTbuwfJRgi+hwUCMOZtrIuR59AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mFinished: FAILURE

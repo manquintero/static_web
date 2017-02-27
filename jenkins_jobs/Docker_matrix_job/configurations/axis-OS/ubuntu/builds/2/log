@@ -1,0 +1,45 @@
+Started by upstream project "[8mha:////4OD0NrfJKaAN52021AFooldpa2V414qj1PwQK/qg5yeVAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JH2X/OTs1KL43ESgKRXxIBEAGgp7C8wAAAA=[0mDocker_matrix_job" build number [8mha:////4J66uJcc/kTg16ic1bVj5tQw4nH1UT0c1FByeLmVJFD5AAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwkfZf85OzUovjcRKApFfEgESMAsoK4Hs0AAAA=[0m2
+originally caused by:
+ Started by user [8mha:////4BlbH/uGgxBkRPWUZZ6tkXHAbq5SE/PYpeI1i6An41EpAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL9xLyS/LzMfACwMxzHwgAAAA==[0mAntonio Quintero
+Building in workspace /var/jenkins_home/workspace/Docker_matrix_job/OS/ubuntu
+[WS-CLEANUP] Deleting project workspace...
+Cloning the remote Git repository
+Cloning repository https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git init /var/jenkins_home/workspace/Docker_matrix_job/OS/ubuntu # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/turnbullpress/docker-jenkins-sample.git # timeout=10
+Fetching upstream changes from https://github.com/turnbullpress/docker-jenkins-sample.git
+ > git fetch --tags --progress https://github.com/turnbullpress/docker-jenkins-sample.git +refs/heads/*:refs/remotes/origin/*
+Checking out Revision 82216cfafe447662b00832d4a4aca83413cb87fd (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 82216cfafe447662b00832d4a4aca83413cb87fd
+ > git rev-list 82216cfafe447662b00832d4a4aca83413cb87fd # timeout=10
+[ubuntu] $ /bin/sh -xe /tmp/hudson9054560098120706149.sh
++ cd ubuntu
++ sudo docker build .
++ tail -1
++ awk {print $NF}
++ IMAGE=27ff59c40685
++ MNT=/var/jenkins_home/workspace/Docker_matrix_job/OS/ubuntu/ubuntu/..
++ sudo docker run -d -v /var/jenkins_home/workspace/Docker_matrix_job/OS/ubuntu/ubuntu/..:/opt/project 27ff59c40685 /bin/bash -c cd /opt/project/ubuntu; rake spec
++ CONTAINER=1136d4d968485679ab77184201e3b50decc2304448b7193314f749da90ba390e
++ sudo docker attach 1136d4d968485679ab77184201e3b50decc2304448b7193314f749da90ba390e
+(in /opt/project)
+rm -rf spec/reports
+/usr/bin/ruby1.9.1 -I/var/lib/gems/1.9.1/gems/rspec-support-3.5.0/lib:/var/lib/gems/1.9.1/gems/rspec-core-3.5.4/lib /var/lib/gems/1.9.1/gems/rspec-core-3.5.4/exe/rspec --pattern spec/\*_spec.rb --colour --format progress
+.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+Finished in 1.97 seconds (files took 6.37 seconds to load)
+501 examples, 0 failures
+
++ sudo docker wait 1136d4d968485679ab77184201e3b50decc2304448b7193314f749da90ba390e
++ RC=0
++ sudo docker rm 1136d4d968485679ab77184201e3b50decc2304448b7193314f749da90ba390e
+1136d4d968485679ab77184201e3b50decc2304448b7193314f749da90ba390e
++ exit 0
+Recording test results
+Finished: SUCCESS

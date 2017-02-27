@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.plugins.git.GitSCM" plugin="git@3.0.5">
+    <configVersion>2</configVersion>
+    <userRemoteConfigs>
+      <hudson.plugins.git.UserRemoteConfig>
+        <url>https://github.com/turnbullpress/docker-jenkins-sample.git</url>
+      </hudson.plugins.git.UserRemoteConfig>
+    </userRemoteConfigs>
+    <branches>
+      <hudson.plugins.git.BranchSpec>
+        <name>*/master</name>
+      </hudson.plugins.git.BranchSpec>
+    </branches>
+    <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+    <submoduleCfg class="list"/>
+    <extensions/>
+  </scm>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <customWorkspace>/var/jenkins_home/jobs/${JOB_NAME}/workspace</customWorkspace>
+  <builders>
+    <hudson.tasks.Shell>
+      <command># Build the image 
+
+sudo ls -l /var/run/docker.sock
+
+IMAGE=$(sudo docker build . | tail -1 | awk &apos;{print $NF}&apos;)
+
+# Build the directory to be mounted in docker
+MNT=&quot;${WORKSPACE}/..&quot;
+
+# Execute the  build inside docker
+CONTAINER=$(sudo docker run -d -v $MNT:/opt/project/ $IMAGE /bin/bash -c &apos;cd /opt/project/workspace; rake spec&apos;)
+
+# Atach to the container so that  we can see the output
+sudo docker attach $CONTAINER
+
+# Get its exit code
+RC=$(sudo docker wait $CONTAINER)
+
+# Delete the container
+sudo docker rm $CONTAINER
+
+# Exit with the same value
+exit $RC</command>
+    </hudson.tasks.Shell>
+  </builders>
+  <publishers>
+    <hudson.tasks.junit.JUnitResultArchiver plugin="junit@1.20">
+      <testResults>spec/reports/*.xml</testResults>
+      <keepLongStdio>false</keepLongStdio>
+      <healthScaleFactor>1.0</healthScaleFactor>
+      <allowEmptyResults>false</allowEmptyResults>
+    </hudson.tasks.junit.JUnitResultArchiver>
+  </publishers>
+  <buildWrappers/>
+</project>
