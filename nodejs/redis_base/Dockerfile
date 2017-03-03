@@ -4,7 +4,7 @@ ENV REFRESHED_AT 2017-03-02
 
 RUN apt-get -yqq update
 RUN apt-get install -yqq software-properties-common python-software-properties
-RUN apt-get-repository ppa:chris-lea/redis-server
+RUN add-apt-repository ppa:chris-lea/redis-server
 RUN apt-get -yqq update
 RUN apt-get -yqq install redis-server redis-tools
 
